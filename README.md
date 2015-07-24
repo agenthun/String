@@ -5,4 +5,5 @@
     Compare 比较是否由相同字符组成
     RemoveDuplicate 删除重复字符
     CountWord 统计单词
+    PrintArray 打印规定的排列
     
