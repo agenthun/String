@@ -7,4 +7,5 @@
     CountWord 统计单词
     PrintArray 打印规定的排列
     Combine 输出所有组合
+    SplitString 去除字符串',',提取数字,排序
     
